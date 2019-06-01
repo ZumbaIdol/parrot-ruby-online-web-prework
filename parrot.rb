@@ -4,4 +4,4 @@ def parrot("#{phrase}", phrase = "squawk")
   
 end
 
-parrot()
+parrot
